@@ -57,7 +57,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Dyksonn/NLW--Ecoleta.git
+$ git clone https://github.com/Dyksonn/NLW---Ecoleta-.git
 
 # Go into the repository
 $ cd ecoleta
